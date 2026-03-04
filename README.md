@@ -9,7 +9,7 @@ This repository contains concise protocols and emergency management guides used 
 ## Contents
 
 - Status Epilepticus Management Protocol
-- ICU Drug Dose Guide (coming soon)
+- ICU Drug Dose Guide 
 - Mechanical Ventilation Basics (coming soon)
 - Sepsis Management Algorithm (coming soon)
 
